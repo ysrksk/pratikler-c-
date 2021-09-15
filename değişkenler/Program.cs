@@ -35,7 +35,7 @@ namespace değişkenler
             bool b2 = true;
             bool b3 = false;
 
-            DateTime dt = Datetime.Now
+            DateTime dt = Datetime.Now;
 
 
 
